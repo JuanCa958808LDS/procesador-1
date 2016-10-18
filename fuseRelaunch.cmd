@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Desktop/Angela/Tb_Union_Procesador_isim_beh.exe" -prj "D:/Desktop/Angela/Tb_Union_Procesador_beh.prj" "work.Tb_Union_Procesador" 

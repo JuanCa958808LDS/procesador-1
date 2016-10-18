@@ -1,0 +1,21 @@
+Running: C:\Users\JUNIOR\Desktop\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Desktop/Angela/Tb_Union_Procesador_isim_beh.exe -prj D:/Desktop/Angela/Tb_Union_Procesador_beh.prj work.Tb_Union_Procesador 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Desktop/Angela/Union_Procesador.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:89 - "D:/Desktop/Angela/Union_Procesador.vhd" Line 56: <union_procesador> remains a black-box since it has no binding entity.
+Completed static elaboration
+Fuse Memory Usage: 101800 KB
+Fuse CPU Usage: 436 ms
+WARNING:Simulator:648 - "D:/Desktop/Angela/Union_Procesador.vhd" Line 56. Instance union_procesador is unbound
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavior of entity tb_union_procesador
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 VHDL Units
+Built simulation executable D:/Desktop/Angela/Tb_Union_Procesador_isim_beh.exe
+Fuse Memory Usage: 110744 KB
+Fuse CPU Usage: 498 ms
